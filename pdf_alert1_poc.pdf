@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /OpenAction << /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >> /AA << /O << /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >> >> /Names << /JavaScript << /Names [(a) 6 0 R (b) 7 0 R] >> >> >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /AA << /O << /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >> /PO << /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >> /PV << /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >> /PC << /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >> >> /Resources << /Shading << /Sh1 8 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8 >>
+stream
+/Sh1 sh
+endstream
+endobj
+6 0 obj
+<< /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >>
+endobj
+7 0 obj
+<< /S /JavaScript /JS <6170702E616C6572742831293B616C6572742831293B> >>
+endobj
+8 0 obj
+<< /ShadingType 4 /ColorSpace /DeviceRGB /Domain [0 1 0 1] /Function 9 0 R /Coords [0 0 1 1] /Extend [true true] >>
+endobj
+9 0 obj
+<< /FunctionType 4 /Domain [0 1] /Range [0 1 0 1 0 1] >>
+stream
+{ (app.alert(9);alert\(9\);) }
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000287 00000 n
+0000000344 00000 n
+0000000787 00000 n
+0000000843 00000 n
+0000000930 00000 n
+0000001017 00000 n
+0000001148 00000 n
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+1268
+%%EOF
